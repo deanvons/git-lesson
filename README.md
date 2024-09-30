@@ -1,3 +1,3 @@
-# Git stuffs
+# Git tutorial
 
-This will cause a conflict
+This repo is for learning GIT
